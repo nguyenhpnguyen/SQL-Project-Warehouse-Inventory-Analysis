@@ -101,8 +101,9 @@ Recalling the result of query *2.5.*, we realise that warehouse d has only 2 pro
 #### 3.5. What are the products that have been undervalued/ not yielded as much profit as expected? What are the products that have not been moving?
 Lastly, answering these two questions would help the company determine what products in which warehouse to drop in order to make room for more profitable product storage. If a product's selling price was lower than the MSRP, it was considered undervalued.
 
-The query I performed and its results were:
+The queries I performed and its results were:
 ![Query6](https://github.com/nguyenhpnguyen/Warehouse-Inventory-Analysis/blob/main/UndervaluedQuery.PNG)
+
 ![Query7](https://github.com/nguyenhpnguyen/Warehouse-Inventory-Analysis/blob/main/NonMovingQuery.PNG)
 
 It is clear that warehouse d has fewest undervalued products, while warehouse b has 37 products that are not profitable as expected. In addition, there exists a product that has not been moving at all in warehouse b as no item of that product was purchased in all the past orders.
