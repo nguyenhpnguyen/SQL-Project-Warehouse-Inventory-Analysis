@@ -15,7 +15,7 @@ To support a data-based business decision, they are looking for suggestions and 
 SQL, Data Visualisation
 
 ## Tools Used
-MySQL Workbench (for querying data), Tableau (for visualisation of the warehouse inventory)
+MySQL Workbench (for querying data), Tableau (for [visualisation of the warehouse inventory](https://github.com/nguyenhpnguyen/Warehouse-Inventory-Analysis/blob/main/EDA_Visualisation.pdf))
 
 ## Approach
 
